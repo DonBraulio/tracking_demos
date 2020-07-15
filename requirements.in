@@ -1,0 +1,15 @@
+pip-tools
+black
+flake8
+Cython
+torch
+torchvision
+scikit-learn==0.21.3
+numpy
+jupyter
+ipython
+opencv-python==4.2.0.34
+scipy
+matplotlib
+filterpy
+# pycocotools==2.0.0  # Must be installed later
